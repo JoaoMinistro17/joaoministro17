@@ -1,6 +1,4 @@
-## Hi there 👋
-
-[My Website](https://joaoministro17.github.io/My-Website-React/)
+[Personal Website](https://joaoministro17.github.io/My-Website-React/)
 
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
